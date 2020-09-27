@@ -1,0 +1,5 @@
+matplotlib
+numpy
+librosa
+pydub
+pyaudio  # Requires a run of `brew install portaudio` in terminal
