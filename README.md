@@ -1,5 +1,5 @@
 # simon-sings
-Ear-training game to match pitch in a Simon Says fashion.
+Ear-training game to match pitch in the fashion of the game Simon.
 
 ### Overview
 
