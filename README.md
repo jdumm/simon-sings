@@ -1,5 +1,5 @@
 # simon-sings
-Ear-training game to match pitch in the fashion of the game Simon.
+Ear-training game to match pitch in the fashion of the game <a href=https://en.wikipedia.org/wiki/Simon_(game)>Simon</a>.
 
 ### Overview
 
@@ -32,4 +32,4 @@ The overall volume of your recording will not impact the score, as long as there
 background noise or if you have a bad microphone.  However, try to keep your volume constant during the
 recording.
 
-You can listen to the sum of the waveforms at the end to listen for pitch accuracy.
+You can listen to the sum of the waveforms at the end to listen for pitch and timing accuracy.
