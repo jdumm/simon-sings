@@ -8,6 +8,7 @@ A quick game to see how good you can match and maintain musical pitch while humm
 Listen to the series of pitches and hum them back.  Maintain good pitch match and timing to keep your score up each round.  
 
 ### Installation
+#### macOS
 
 `pip install -r requirements.txt`
 
