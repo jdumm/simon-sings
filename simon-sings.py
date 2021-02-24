@@ -153,7 +153,7 @@ def menu(x, y, sr):
 def main():
     """ Execute Simon Sings game.
     """
-    test_mode = True  # Set to True to use a default recording and fixed random seed - for testing
+    test_mode = False # Set to True to use a default recording and fixed random seed - for testing
     sr = 22050  # sample rate
     n_round = 0
     n_segs = 3  # Initial number of tone segments
